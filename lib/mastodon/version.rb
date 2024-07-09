@@ -44,7 +44,7 @@ module Mastodon
     end
 
     def repository
-      ENV.fetch('GITHUB_REPOSITORY', 'palebluevoyager/MSR')
+      ENV.fetch('GITHUB_REPOSITORY', 'pbv-network/mastodon')
     end
 
     def source_base_url
