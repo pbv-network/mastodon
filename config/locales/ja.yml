@@ -1701,6 +1701,8 @@ ja:
     contrast: Mastodon (ハイコントラスト)
     default: Mastodon (ダーク)
     mastodon-light: Mastodon (ライト)
+    tangerineui: タンジェリンＵＩ (タンジェリン)
+    tangerineui-purple: タンジェリンＵＩ (ヒヤシンス)
   time:
     formats:
       default: "%Y年%m月%d日 %H:%M"

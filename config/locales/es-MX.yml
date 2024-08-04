@@ -1733,6 +1733,8 @@ es-MX:
     contrast: Alto contraste
     default: Mastodon
     mastodon-light: Mastodon (claro)
+    tangerineui: Tangerine UI (tangerina)
+    tangerineui-purple: Tangerine UI (jacinto)
   time:
     formats:
       default: "%d de %b del %Y, %H:%M"

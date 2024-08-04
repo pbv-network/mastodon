@@ -1733,6 +1733,8 @@ es-AR:
     contrast: Alto contraste
     default: Oscuro
     mastodon-light: Claro
+    tangerineui: Tangerine UI (Tangerina)
+    tangerineui-purple: Tangerine UI (Jacinto)
   time:
     formats:
       default: "%Y.%b.%d, %H:%M"

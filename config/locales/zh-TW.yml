@@ -1707,6 +1707,8 @@ zh-TW:
     contrast: Mastodon（高對比）
     default: Mastodon（深色）
     mastodon-light: Mastodon（亮色）
+    tangerineui: Tangerine UI（柑）
+    tangerineui-purple: Tangerine UI（風信子）
   time:
     formats:
       default: "%Y 年 %b 月 %d 日 %H:%M"

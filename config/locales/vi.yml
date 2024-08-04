@@ -1701,6 +1701,8 @@ vi:
     contrast: Mastodon (Tương phản)
     default: Mastodon (Tối)
     mastodon-light: Mastodon (Sáng)
+    tangerineui: Tangerine UI (Quýt lai)
+    tangerineui-purple: Tangerine UI (Hyacinthus)
   time:
     formats:
       default: "%-d.%m.%Y %H:%M"

@@ -1733,6 +1733,8 @@ fr:
     contrast: Mastodon (Contraste élevé)
     default: Mastodon (Sombre)
     mastodon-light: Mastodon (Clair)
+    tangerineui: Tangerine UI (Tangerine)
+    tangerineui-purple: Tangerine UI (Jacinthe)
   time:
     formats:
       default: "%d %b %Y, %H:%M"
