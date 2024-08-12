@@ -27,8 +27,8 @@
      scale-x="1"
      inkscape:snap-global="true"
      inkscape:zoom="1"
-     inkscape:cx="414"
-     inkscape:cy="395.5"
+     inkscape:cx="2"
+     inkscape:cy="185.5"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -50,10 +50,10 @@
      transform="scale(3.7795045)"
      inkscape:label="elmt squircle outline" />
   <path
-     id="path3909"
-     style="fill:#f5f5f5;fill-opacity:1;stroke-width:0.969996"
+     id="path9-0"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:0.939993"
      inkscape:label="elmt squircle inline"
-     d="m 199.9961,6.0000001 c -25.8158,0 -48.5275,1.434715 -68.44922,4.5810549 L 28.820312,326.73635 c 26.696559,49.20624 79.380658,67.26366 171.175788,67.26366 25.81916,0 48.53406,-1.43448 68.458,-4.58202 L 371.17971,73.263671 C 344.48191,24.055726 291.79435,6.0000001 199.9961,6.0000001 Z" />
+     d="M 199.99609 12 C 173.1287 12 149.71972 13.595964 129.41602 17.136719 L 31.650391 318.02734 C 56.677494 369.33467 108.12291 388 199.99609 388 C 226.86698 388 250.27805 386.40345 270.58398 382.86133 L 368.34961 81.970703 C 343.32117 30.662466 291.8716 12 199.99609 12 z " />
   <g
      id="g3293"
      inkscape:label="grup asterisk"
