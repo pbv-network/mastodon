@@ -1702,6 +1702,7 @@ vi:
     default: Mastodon (Tối)
     mastodon-light: Mastodon (Sáng)
     tangerineui: Tangerine UI (Quýt lai)
+    tangerineui-blueberry: Tangerine UI (Việt quất xanh)
     tangerineui-purple: Tangerine UI (Hyacinthus)
   time:
     formats:

@@ -1734,6 +1734,7 @@ es-MX:
     default: Mastodon
     mastodon-light: Mastodon (claro)
     tangerineui: Tangerine UI (tangerina)
+    tangerineui-blueberry: Tangerine UI (arándano)
     tangerineui-purple: Tangerine UI (jacinto)
   time:
     formats:

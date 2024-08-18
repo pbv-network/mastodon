@@ -1734,6 +1734,7 @@ es-AR:
     default: Oscuro
     mastodon-light: Claro
     tangerineui: Tangerine UI (Tangerina)
+    tangerineui-blueberry: Tangerine UI (Arándano)
     tangerineui-purple: Tangerine UI (Jacinto)
   time:
     formats:

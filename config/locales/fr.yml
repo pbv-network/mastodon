@@ -1734,6 +1734,7 @@ fr:
     default: Mastodon (Sombre)
     mastodon-light: Mastodon (Clair)
     tangerineui: Tangerine UI (Tangerine)
+    tangerineui-blueberry: Tangerine UI (Bleuet)
     tangerineui-purple: Tangerine UI (Jacinthe)
   time:
     formats:

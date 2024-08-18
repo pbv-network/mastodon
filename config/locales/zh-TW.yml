@@ -1708,6 +1708,7 @@ zh-TW:
     default: Mastodon（深色）
     mastodon-light: Mastodon（亮色）
     tangerineui: Tangerine UI（柑）
+    tangerineui-blueberry: Tangerine UI（藍莓）
     tangerineui-purple: Tangerine UI（風信子）
   time:
     formats:

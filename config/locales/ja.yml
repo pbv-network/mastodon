@@ -1702,6 +1702,7 @@ ja:
     default: Mastodon (ダーク)
     mastodon-light: Mastodon (ライト)
     tangerineui: Tangerine UI (タンジェリン)
+    tangerineui-blueberry: Tangerine UI (ブルーベリー)
     tangerineui-purple: Tangerine UI (ヒヤシンス)
   time:
     formats:
