@@ -1661,8 +1661,6 @@ ms:
     contrast: Mastodon (Kontras tinggi)
     default: Mastodon (Gelap)
     mastodon-light: Mastodon (Cahaya)
-    tangerineui: Tangerine UI (Jeruk siam)
-    tangerineui-purple: Tangerine UI (Bunga yakut)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
