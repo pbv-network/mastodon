@@ -1,92 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="400"
-   height="400"
-   viewBox="0 0 400 400"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="false"
-     inkscape:document-units="px"
-     showgrid="false"
-     units="px"
-     scale-x="1"
-     inkscape:snap-global="true"
-     inkscape:zoom="1"
-     inkscape:cx="2"
-     inkscape:cy="185.5"
-     inkscape:window-width="1920"
-     inkscape:window-height="996"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
-     showborder="true"
-     inkscape:showpageshadow="true"
-     borderlayer="false" />
-  <defs
-     id="defs2" />
+  width="400"
+  height="400"
+  viewBox="0 0 400 400"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
   <path
-     id="path9"
-     style="fill:#7491db;fill-opacity:1;stroke-width:0.264583"
-     sodipodi:type="inkscape:offset"
-     inkscape:radius="0"
-     inkscape:original="M 52.916016 0 C 12.699349 4.7369516e-15 0 12.699349 0 52.916016 C 0 93.132682 12.699349 105.83398 52.916016 105.83398 C 93.132682 105.83398 105.83398 93.132682 105.83398 52.916016 C 105.83398 12.699349 93.132682 0 52.916016 0 z "
-     d="M 52.916016,0 C 12.699349,0 0,12.699349 0,52.916016 c 0,40.216666 12.699349,52.917964 52.916016,52.917964 40.216666,0 52.917964,-12.701298 52.917964,-52.917964 C 105.83398,12.699349 93.132682,0 52.916016,0 Z"
-     transform="scale(3.7795045)"
-     inkscape:label="elmt squircle outline" />
+    fill="#7491db"
+    d="M 0 200 C 0 48, 48 0, 200 0 S 400 48, 400 200, 352 400 200 400, 0 352, 0 200" />
   <path
-     id="path9-0"
-     style="fill:#f5f5f5;fill-opacity:1;stroke-width:0.939993"
-     inkscape:label="elmt squircle inline"
-     d="M 199.99609 12 C 173.1287 12 149.71972 13.595964 129.41602 17.136719 L 31.650391 318.02734 C 56.677494 369.33467 108.12291 388 199.99609 388 C 226.86698 388 250.27805 386.40345 270.58398 382.86133 L 368.34961 81.970703 C 343.32117 30.662466 291.8716 12 199.99609 12 z " />
-  <g
-     id="g3293"
-     inkscape:label="grup asterisk"
-     transform="matrix(-3.5945447,-1.1679384,1.1679384,-3.5945447,329.24741,449.43135)">
-    <path
-       id="rect32-35"
-       style="display:inline;fill:#7491db;stroke-width:0.201784"
-       d="m 28.634418,49.872074 3.27043,-10.065348 22.31999,8.365002 -2.616343,8.052279 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 288" />
-    <path
-       id="rect32-5"
-       style="display:inline;fill:#7491db;stroke-width:0.201784"
-       d="m 43.201078,74.573054 -8.562096,-6.220727 14.852845,-18.642644 6.849678,4.976581 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 216" />
-    <path
-       id="rect32-7"
-       style="display:inline;fill:#7491db;stroke-width:0.201784"
-       d="M 71.194351,68.352327 62.632255,74.573054 49.491828,54.686265 56.341505,49.709683 Z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 144" />
-    <path
-       id="rect32-6"
-       style="display:inline;fill:#7491db;stroke-width:0.201784"
-       d="m 73.928485,39.806726 3.27043,10.065348 -22.974076,6.351933 -2.616344,-8.052279 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 72" />
-    <path
-       id="rect32"
-       style="fill:#7491db;stroke-width:0.201784"
-       d="M 47.625,28.385458 H 58.208333 L 57.15,52.197958 h -8.466667 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 0" />
-  </g>
+    fill="#f5f5f5"
+    d="M 199.99609 12 C 173.1287 12 149.71972 13.595964 129.41602 17.136719 L 31.650391 318.02734 C 56.677494 369.33467 108.12291 388 199.99609 388 C 226.86698 388 250.27805 386.40345 270.58398 382.86133 L 368.34961 81.970703 C 343.32117 30.662466 291.8716 12 199.99609 12 z M 191.20898 108.22461 L 208.95898 172.42578 L 261.05664 130.91992 L 284.56641 163.2793 L 228.99414 200 L 284.56641 236.7207 L 261.05664 269.08203 L 208.95898 227.57617 L 191.20898 291.77539 L 153.16797 279.41406 L 176.54297 217.04297 L 110 220 L 110 180 L 176.54297 182.95703 L 153.16797 120.58594 L 191.20898 108.22461 z " />
 </svg>
