@@ -1701,6 +1701,9 @@ zh-HK:
     contrast: 高對比
     default: 萬象
     mastodon-light: 萬象（亮色主題）
+    tangerineui: 橘子 UI（橘子）
+    tangerineui-blueberry: 橘子 UI（藍莓）
+    tangerineui-purple: 橘子 UI（風信子）
   time:
     formats:
       default: "%Y年%-m月%d日 %H:%M"

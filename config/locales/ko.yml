@@ -1703,6 +1703,9 @@ ko:
     contrast: 마스토돈 (고대비)
     default: 마스토돈 (어두움)
     mastodon-light: 마스토돈 (밝음)
+    tangerineui: 탄제린 UI (탄제린)
+    tangerineui-blueberry: 탄제린 UI (블루베리)
+    tangerineui-purple: 탄제린 UI (히아신스)
   time:
     formats:
       default: "%Y-%m-%d %H:%M"
