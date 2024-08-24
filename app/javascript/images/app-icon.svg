@@ -1,95 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="400"
-   height="400"
-   viewBox="0 0 400 400"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="Logo Square Source.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="false"
-     inkscape:document-units="px"
-     showgrid="false"
-     units="px"
-     scale-x="1"
-     inkscape:snap-global="true"
-     inkscape:zoom="1"
-     inkscape:cx="414"
-     inkscape:cy="395.5"
-     inkscape:window-width="1920"
-     inkscape:window-height="996"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
-     showborder="true"
-     inkscape:showpageshadow="true"
-     borderlayer="false" />
-  <defs
-     id="defs2" />
+  width="400"
+  height="400"
+  viewBox="0 0 400 400"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect
-     style="fill:#7491db;stroke-width:2.87683;fill-opacity:1"
-     id="rect1114"
-     width="400"
-     height="400"
-     x="0"
-     y="0"
-     inkscape:label="elmt background" />
-  <rect
-     style="fill:#f5f5f5;stroke-width:1.77341"
-     id="rect1010"
-     width="260"
-     height="420.5849"
-     x="134.98395"
-     y="0"
-     transform="matrix(1,0,-0.30901699,0.95105652,0,0)"
-     inkscape:label="elmt diagonal area" />
-  <g
-     id="g3293"
-     inkscape:label="grup asterisk"
-     transform="matrix(-3.5945447,-1.1679384,1.1679384,-3.5945447,329.24741,449.43135)">
-    <path
-       id="rect32-35"
-       style="display:inline;fill:#7491db;stroke-width:0.201784"
-       d="m 28.634418,49.872074 3.27043,-10.065348 22.31999,8.365002 -2.616343,8.052279 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 288" />
-    <path
-       id="rect32-5"
-       style="display:inline;fill:#7491db;stroke-width:0.201784"
-       d="m 43.201078,74.573054 -8.562096,-6.220727 14.852845,-18.642644 6.849678,4.976581 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 216" />
-    <path
-       id="rect32-7"
-       style="display:inline;fill:#7491db;stroke-width:0.201784"
-       d="M 71.194351,68.352327 62.632255,74.573054 49.491828,54.686265 56.341505,49.709683 Z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 144" />
-    <path
-       id="rect32-6"
-       style="display:inline;fill:#7491db;stroke-width:0.201784"
-       d="m 73.928485,39.806726 3.27043,10.065348 -22.974076,6.351933 -2.616344,-8.052279 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 72" />
-    <path
-       id="rect32"
-       style="fill:#7491db;stroke-width:0.201784"
-       d="M 47.625,28.385458 H 58.208333 L 57.15,52.197958 h -8.466667 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:label="elmt asterisk part 0" />
-  </g>
+    fill="#7491db"
+    width="400"
+    height="400"
+    x="0"
+    y="0" />
+  <path
+    fill="#f5f5f5"
+    transform="matrix(1,0,-0.30901699,0.95105652,0,0)"
+    d="M 134.98438 0 L 134.9835 420.58489 L 394.9835 420.58489 L 394.98438 0 L 134.98438 0 z M 226.37329 113.79409 L 264.98352 181.29919 L 303.5951 137.65735 L 337.61906 171.68201 L 293.97613 210.29244 L 361.48162 248.90288 L 348.48669 282.92959 L 282.90296 239.28775 L 286.01255 306.7908 L 243.9551 293.79333 L 247.0645 228.21248 L 181.48233 231.32169 L 168.48554 189.2632 L 235.98931 192.37241 L 192.34871 126.79156 L 226.37329 113.79409 z " />
 </svg>
