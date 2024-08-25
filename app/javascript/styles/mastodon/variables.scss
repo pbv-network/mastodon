@@ -89,7 +89,7 @@ $media-modal-media-max-height: 80%;
 
 $no-gap-breakpoint: 1175px;
 
-$font-sans-serif: 'mastodon-font-sans-serif' !default;
+$font-sans-serif: 'mastodon-font-sans-serif', 'mastodon-font-sans-serif-kr', 'mastodon-font-sans-serif-jp', 'mastodon-font-sans-serif-tc', 'mastodon-font-sans-serif-arabic', 'mastodon-font-sans-serif-devanagari', 'mastodon-font-sans-serif-hebrew', 'mastodon-font-sans-serif-thai' !default;
 $font-display: 'mastodon-font-display' !default;
 $font-monospace: 'mastodon-font-monospace' !default;
 
