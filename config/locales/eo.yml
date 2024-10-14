@@ -1667,6 +1667,10 @@ eo:
     contrast: Mastodon (Forta kontrasto)
     default: Mastodon (Malhela)
     mastodon-light: Mastodon (Hela)
+    tangerineui: Tangerine UI (Tanĝerino)
+    tangerineui-purple: Tangerine UI (Hiacinto)
+    tangerineui-cherry: Tangerine UI (Ĉerizo)
+    tangerineui-lagoon: Tangerine UI (Laguno)
   time:
     formats:
       default: "%Y.%b.%d, %H:%M"

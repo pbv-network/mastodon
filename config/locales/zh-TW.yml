@@ -1775,6 +1775,10 @@ zh-TW:
     default: Mastodon（深色）
     mastodon-light: Mastodon（亮色）
     system: 自動（使用系統佈景主題）
+    tangerineui: Tangerine UI（柑）
+    tangerineui-purple: Tangerine UI（紫）
+    tangerineui-cherry: Tangerine UI（櫻桃）
+    tangerineui-lagoon: Tangerine UI（潟湖）
   time:
     formats:
       default: "%Y 年 %b 月 %d 日 %H:%M"

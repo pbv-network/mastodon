@@ -1803,6 +1803,10 @@ es-MX:
     default: Mastodon
     mastodon-light: Mastodon (claro)
     system: Automático (usar tema del sistema)
+    tangerineui: Tangerine UI (tangerina)
+    tangerineui-purple: Tangerine UI (púrpura)
+    tangerineui-cherry: Tangerine UI (cereza)
+    tangerineui-lagoon: Tangerine UI (laguna)
   time:
     formats:
       default: "%d de %b del %Y, %H:%M"
