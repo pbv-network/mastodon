@@ -140,12 +140,27 @@ export const PollForm = () => {
       <div className='compose-form__poll__footer'>
         <Select label={intl.formatMessage(messages.duration)} options={[
           { value: 300, label: intl.formatMessage(messages.minutes, { number: 5 })},
+	  { value: 600, label: intl.formatMessage(messages.minutes, { number: 10 })},
+	  { value: 900, label: intl.formatMessage(messages.minutes, { number: 15 })},
+	  { value: 1200, label: intl.formatMessage(messages.minutes, { number: 20 })},
           { value: 1800, label: intl.formatMessage(messages.minutes, { number: 30 })},
+	  { value: 2400, label: intl.formatMessage(messages.minutes, { number: 40 })},
+	  { value: 3000, label: intl.formatMessage(messages.minutes, { number: 50 })},
           { value: 3600, label: intl.formatMessage(messages.hours, { number: 1 })},
+	  { value: 7200, label: intl.formatMessage(messages.hours, { number: 2 })},
+	  { value: 10800, label: intl.formatMessage(messages.hours, { number: 3 })},
+	  { value: 14400, label: intl.formatMessage(messages.hours, { number: 4 })},
           { value: 21600, label: intl.formatMessage(messages.hours, { number: 6 })},
+	  { value: 28800, label: intl.formatMessage(messages.hours, { number: 8 })},
+	  { value: 36000, label: intl.formatMessage(messages.hours, { number: 10 })},
           { value: 43200, label: intl.formatMessage(messages.hours, { number: 12 })},
+	  { value: 64800, label: intl.formatMessage(messages.hours, { number: 18 })},
           { value: 86400, label: intl.formatMessage(messages.days, { number: 1 })},
-          { value: 259200, label: intl.formatMessage(messages.days, { number: 3 })},
+	  { value: 172800, label: intl.formatMessage(messages.days, { number: 2 })},
+	  { value: 259200, label: intl.formatMessage(messages.days, { number: 3 })},
+	  { value: 345600, label: intl.formatMessage(messages.days, { number: 4 })},
+	  { value: 432000, label: intl.formatMessage(messages.days, { number: 5 })},
+	  { value: 518400, label: intl.formatMessage(messages.days, { number: 6 })},
           { value: 604800, label: intl.formatMessage(messages.days, { number: 7 })},
         ]} value={expiresIn} onChange={handleDurationChange} />
 
