@@ -13,7 +13,7 @@ module Mastodon
     end
 
     def patch
-      5
+      8
     end
 
     def default_prerelease
@@ -25,7 +25,7 @@ module Mastodon
     end
 
     def build_metadata
-      ['r12', ENV.fetch('MASTODON_VERSION_METADATA', nil)].compact_blank.join('.')
+      ['r13', ENV.fetch('MASTODON_VERSION_METADATA', nil)].compact_blank.join('.')
     end
 
     def to_a
