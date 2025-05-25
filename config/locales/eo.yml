@@ -1808,6 +1808,11 @@ eo:
     default: Mastodon (Malhela)
     mastodon-light: Mastodon (Hela)
     system: Aŭtomata (uzu sisteman temon)
+    tangerineui: Tangerine UI (Tanĝerino)
+    tangerineui-purple: Tangerine UI (Hiacinto)
+    tangerineui-cherry: Tangerine UI (Ĉerizo)
+    tangerineui-lagoon: Tangerine UI (Laguno)
+    tangerineui-blueberry: Tangerine UI (Blua bero)
   time:
     formats:
       default: "%Y.%b.%d, %H:%M"

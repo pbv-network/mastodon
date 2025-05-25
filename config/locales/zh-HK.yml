@@ -1666,6 +1666,11 @@ zh-HK:
     default: 萬象
     mastodon-light: 萬象（亮色主題）
     system: 自動（使用系統主題）
+    tangerineui: 柑 UI（柑）
+    tangerineui-purple: 柑 UI（紫）
+    tangerineui-cherry: 柑 UI（櫻桃）
+    tangerineui-lagoon: 柑 UI（潟湖）
+    tangerineui-blueberry: 橘子 UI（藍莓）
   time:
     formats:
       default: "%Y年%b月%d日 %H:%M"
