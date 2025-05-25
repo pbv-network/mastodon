@@ -90,9 +90,9 @@ $media-modal-media-max-height: 80%;
 $no-gap-breakpoint: 1175px;
 $mobile-breakpoint: 630px;
 
-$font-sans-serif: 'mastodon-font-sans-serif' !default;
-$font-display: 'mastodon-font-display' !default;
-$font-monospace: 'mastodon-font-monospace' !default;
+$font-sans-serif: 'ibm-plex-sans', 'ibm-plex-sans-kr', 'ibm-plex-sans-jp', 'ibm-plex-sans-tc', 'ibm-plex-sans-arabic', 'ibm-plex-sans-devanagari', 'ibm-plex-sans-hebrew', 'ibm-plex-sans-thai' !default;
+$font-display: 'ibm-plex-sans', 'ibm-plex-sans-kr', 'ibm-plex-sans-jp', 'ibm-plex-sans-tc', 'ibm-plex-sans-arabic', 'ibm-plex-sans-devanagari', 'ibm-plex-sans-hebrew', 'ibm-plex-sans-thai' !default;
+$font-monospace: 'cascadia-code-pl' !default;
 
 :root {
   --dropdown-border-color: #{lighten($ui-base-color, 4%)};

@@ -1,4 +1,4 @@
-@import 'fonts/inter';
+@import 'fonts/ibm-plex-sans-family';
 
 body {
   accent-color: #6364ff;
@@ -21,7 +21,7 @@ h6 {
   background-color: transparent;
   padding: 0;
   border: none;
-  font-family: Inter, 'Lucida Grande', sans-serif;
+  font-family: 'ibm-plex-sans', 'ibm-plex-sans-kr', 'ibm-plex-sans-jp', 'ibm-plex-sans-tc', 'ibm-plex-sans-sc', 'ibm-plex-sans-arabic', 'ibm-plex-sans-devanagari', 'ibm-plex-sans-hebrew', 'ibm-plex-sans-thai', 'Lucida Grande', sans-serif;
 }
 
 img {
@@ -44,7 +44,7 @@ table + p {
 
 .email {
   min-width: 280px;
-  font-family: Inter, 'Lucida Grande', sans-serif;
+  font-family: 'ibm-plex-sans', 'ibm-plex-sans-kr', 'ibm-plex-sans-jp', 'ibm-plex-sans-tc', 'ibm-plex-sans-sc', 'ibm-plex-sans-arabic', 'ibm-plex-sans-devanagari', 'ibm-plex-sans-hebrew', 'ibm-plex-sans-thai', 'Lucida Grande', sans-serif;
   word-break: break-word;
   color: #17063b;
   background-color: #f3f2f5;
@@ -535,7 +535,7 @@ table + p {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
-  font-family: Inter, 'Lucida Grande', sans-serif;
+  font-family: 'ibm-plex-sans', 'ibm-plex-sans-kr', 'ibm-plex-sans-jp', 'ibm-plex-sans-tc', 'ibm-plex-sans-sc', 'ibm-plex-sans-arabic', 'ibm-plex-sans-devanagari', 'ibm-plex-sans-hebrew', 'ibm-plex-sans-thai', 'Lucida Grande', sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 20px;
