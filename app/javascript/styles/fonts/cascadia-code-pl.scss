@@ -1,0 +1,21 @@
+@font-face {
+  font-family: cascadia-code-pl;
+  src:
+    local('Cascadia Code PL'),
+    url('../fonts/cascadia-code-pl/CascadiaCodePL.woff2') format('woff2'),
+    url('../fonts/cascadia-code-pl/CascadiaCodePL.ttf') format('truetype');
+  font-weight: normal;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: cascadia-code-pl;
+  src:
+    local('Cascadia Code PL Italic'),
+    url('../fonts/cascadia-code-pl/CascadiaCodePLItalic.woff2') format('woff2'),
+    url('../fonts/cascadia-code-pl/CascadiaCodePLItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-display: swap;
+  font-style: italic;
+}
