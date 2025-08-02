@@ -1809,6 +1809,11 @@ fr-CA:
     default: Mastodon (Sombre)
     mastodon-light: Mastodon (Clair)
     system: Automatique (utiliser le thème système)
+    tangerineui: Tangerine UI (Tangerine)
+    tangerineui-purple: Tangerine UI (Pourpre)
+    tangerineui-cherry: Tangerine UI (Cerise)
+    tangerineui-lagoon: Tangerine UI (Lagon)
+    tangerineui-blueberry: Tangerine UI (Bleuet)
   time:
     formats:
       default: "%d %b %Y, %H:%M"
