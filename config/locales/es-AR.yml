@@ -1941,6 +1941,11 @@ es-AR:
     default: Oscuro
     mastodon-light: Claro
     system: Automático (usar tema del sistema)
+    tangerineui: Tangerine UI (Tangerina)
+    tangerineui-purple: Tangerine UI (Púrpura)
+    tangerineui-cherry: Tangerine UI (Cereza)
+    tangerineui-lagoon: Tangerine UI (Laguna)
+    tangerineui-blueberry: Tangerine UI (Arándano)
   time:
     formats:
       default: "%Y.%b.%d, %H:%M"

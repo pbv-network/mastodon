@@ -1891,6 +1891,11 @@ ja:
     default: Mastodon (ダーク)
     mastodon-light: Mastodon (ライト)
     system: 自動 (システムのテーマを使用)
+    tangerineui: Tangerine UI (タンジェリン)
+    tangerineui-purple: Tangerine UI (紫)
+    tangerineui-cherry: Tangerine UI (チェリー)
+    tangerineui-lagoon: Tangerine UI (ラグーン)
+    tangerineui-blueberry: Tangerine UI (ブルーベリー)
   time:
     formats:
       default: "%Y年%m月%d日 %H:%M"

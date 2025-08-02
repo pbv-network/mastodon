@@ -1900,6 +1900,11 @@ ko:
     default: 마스토돈 (어두움)
     mastodon-light: 마스토돈 (밝음)
     system: 자동 (시스템 테마 사용)
+    tangerineui: 탄제린 UI (탄제린)
+    tangerineui-purple: 탄제린 UI (보라)
+    tangerineui-cherry: 탄제린 UI (체리)
+    tangerineui-lagoon: 탄제린 UI (석호)
+    tangerineui-blueberry: 탄제린 UI (블루베리)
   time:
     formats:
       default: "%Y-%m-%d %H:%M"
