@@ -25,7 +25,7 @@ module Mastodon
     end
 
     def build_metadata
-      ['r8', ENV.fetch('MASTODON_VERSION_METADATA', nil)].compact_blank.join('.')
+      ['r15', ENV.fetch('MASTODON_VERSION_METADATA', nil)].compact_blank.join('.')
     end
 
     def to_a
