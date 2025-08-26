@@ -105,9 +105,9 @@ $mobile-menu-breakpoint: 760px;
 $mobile-breakpoint: 630px;
 $no-columns-breakpoint: 600px;
 
-$font-sans-serif: 'mastodon-font-sans-serif' !default;
-$font-display: 'mastodon-font-display' !default;
-$font-monospace: 'mastodon-font-monospace' !default;
+$font-sans-serif: 'ibm-plex-sans', 'ibm-plex-sans-kr', 'ibm-plex-sans-jp', 'ibm-plex-sans-tc', 'ibm-plex-sans-arabic', 'ibm-plex-sans-devanagari', 'ibm-plex-sans-hebrew', 'ibm-plex-sans-thai' !default;
+$font-display: 'ibm-plex-sans', 'ibm-plex-sans-kr', 'ibm-plex-sans-jp', 'ibm-plex-sans-tc', 'ibm-plex-sans-arabic', 'ibm-plex-sans-devanagari', 'ibm-plex-sans-hebrew', 'ibm-plex-sans-thai' !default;
+$font-monospace: 'cascadia-code-pl' !default;
 
 $emojis-requiring-inversion: 'back' 'copyright' 'curly_loop' 'currency_exchange'
   'end' 'heavy_check_mark' 'heavy_division_sign' 'heavy_dollar_sign'
